@@ -15,6 +15,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/NirobDas29/practice-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0033-search-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
 ## Enumeration
