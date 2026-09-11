@@ -149,6 +149,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -162,12 +163,15 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
