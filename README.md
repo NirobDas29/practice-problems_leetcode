@@ -17,6 +17,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0137-single-number-ii](https://github.com/NirobDas29/practice-problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
@@ -66,6 +68,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0027-remove-element](https://github.com/NirobDas29/practice-problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
