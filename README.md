@@ -20,6 +20,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0189-rotate-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -32,6 +33,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0001-two-sum](https://github.com/NirobDas29/practice-problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
@@ -82,6 +85,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
 ## Enumeration
@@ -92,6 +96,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirobDas29/practice-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NirobDas29/practice-problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -142,6 +147,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/NirobDas29/practice-problems/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 ## Game Theory
 |  |
 | ------- |
