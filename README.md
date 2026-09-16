@@ -10,6 +10,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0004-median-of-two-sorted-arrays](https://github.com/NirobDas29/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/NirobDas29/practice-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
@@ -74,6 +75,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NirobDas29/practice-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NirobDas29/practice-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
