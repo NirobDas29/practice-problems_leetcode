@@ -53,6 +53,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
