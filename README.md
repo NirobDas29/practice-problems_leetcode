@@ -34,6 +34,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0001-two-sum](https://github.com/NirobDas29/practice-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NirobDas29/practice-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
@@ -121,6 +123,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
