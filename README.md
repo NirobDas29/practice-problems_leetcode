@@ -124,6 +124,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0003-longest-substring-without-repeating-characters](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NirobDas29/practice-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
@@ -170,6 +171,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -177,6 +179,7 @@ Here the codes that I practice and solved problems in different online judge.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Newton's Method
 |  |
