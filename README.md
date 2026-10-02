@@ -130,6 +130,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0125-valid-palindrome](https://github.com/NirobDas29/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NirobDas29/practice-problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -170,6 +171,7 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0455-assign-cookies](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -177,11 +179,13 @@ Here the codes that I practice and solved problems in different online judge.
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Newton's Method
 |  |
