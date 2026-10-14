@@ -71,6 +71,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [1925-count-square-sum-triples](https://github.com/NirobDas29/practice-problems/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NirobDas29/practice-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NirobDas29/practice-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0455-assign-cookies](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/NirobDas29/practice-problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
 | ------- |
