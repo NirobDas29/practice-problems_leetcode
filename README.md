@@ -206,18 +206,21 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Quicksort
@@ -232,4 +235,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
