@@ -210,6 +210,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0101-symmetric-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0101-symmetric-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0101-symmetric-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -243,4 +246,8 @@ Here the codes that I practice and solved problems in different online judge.
 | ------- |
 | [0100-same-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0101-symmetric-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
