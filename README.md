@@ -22,6 +22,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0238-product-of-array-except-self](https://github.com/NirobDas29/practice-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -65,6 +66,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0069-sqrtx](https://github.com/NirobDas29/practice-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/NirobDas29/practice-problems/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/NirobDas29/practice-problems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
@@ -109,6 +111,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0217-contains-duplicate](https://github.com/NirobDas29/practice-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NirobDas29/practice-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/NirobDas29/practice-problems/tree/master/3536-maximum-product-of-two-digits) |
