@@ -143,6 +143,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0856-score-of-parentheses](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -255,4 +256,8 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
