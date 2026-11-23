@@ -26,6 +26,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/NirobDas29/practice-problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/NirobDas29/practice-problems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NirobDas29/practice-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/NirobDas29/practice-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,6 +196,7 @@ Here the codes that I practice and solved problems in different online judge.
 | [0144-binary-tree-preorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NirobDas29/practice-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -266,4 +268,5 @@ Here the codes that I practice and solved problems in different online judge.
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/NirobDas29/practice-problems_leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
